@@ -1,10 +1,8 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
+title: 'Zdenka & Tomi'
+description: 'Svadba - Piatok 7 September, 2018. Hotel Magura'
 url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+baseurl: ''
 
 author:
   name: 'Josh Gerdes'
